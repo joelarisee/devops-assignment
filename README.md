@@ -14,7 +14,7 @@ To run this application, the host system must have the following installed:
 ## How to Run the Application
 
 ### 1. Set Environment Variables
-The application dynamically reads database credentials from the host system's environment variables to ensure no secrets are hardcoded. Before starting the application, export the following variables in your terminal:
+The application dynamically reads database credentials from the host system's environment variables to ensure no secrets are hardcoded. Before starting the application, export the following variables in terminal:
 
 ```bash
 export DB_HOST="<YOUR_RDS_ENDPOINT>"
@@ -50,18 +50,9 @@ curl -X GET "http://3.25.86.170/items/" -H "Authorization: pay3-assignment"
 ```
 
 ## Proof of Execution
-*(Replace the text below with the actual screenshots of your successful cURL responses)*
 
 1. **Screenshot of successful POST (Write) Request:**
    `[Insert Screenshot Here]`
 
 2. **Screenshot of successful GET (Read) Request:**
    `[Insert Screenshot Here]`
-
-## Final Steps to Wrap Up
-1. Save this text in a file named `README.md` in your project folder on your Windows laptop.
-2. Drag and drop your two screenshots into the folder as well, and update the `[Insert Screenshot Here]` placeholders with the image files.
-3. Commit and push these final changes to your GitHub repository.
-
-## Critical Reminder
-Once your assignment has been graded and the results are announced, please remember to terminate all your AWS resources (both the EC2 instance and the RDS database) so you do not get charged.
