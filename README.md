@@ -52,9 +52,10 @@ curl -X GET "http://3.25.86.170/items/" -H "Authorization: pay3-assignment"
 ## Proof of Execution
 
 1. **Screenshot of successful POST (Write) Request:**
-    <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2e2f47ba-2749-4739-b6bb-59ab97f4f8f8" />
+<img width="2559" height="1355" alt="image" src="https://github.com/user-attachments/assets/56769281-e5dc-421a-a332-0d356cdb01d7" />
 
 2. **Screenshot of successful GET (Read) Request:**
-   ``<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4f4ee137-6805-401c-9b33-4e67b66880f4" />
+<img width="2559" height="1352" alt="image" src="https://github.com/user-attachments/assets/d357905c-bcfc-4118-8839-35d6566dd462" />
+
 
 
